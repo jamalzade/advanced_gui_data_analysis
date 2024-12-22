@@ -65,12 +65,6 @@ The Advanced Data Analysis Tool is an interactive Python application designed fo
 - `main.py`: The primary script to launch the application.
 - `data_analysis.log`: Logs detailed runtime information for debugging and monitoring.
 
-## Screenshots
-
-- **Main Interface**:
-  ![Main Interface](screenshots/main_interface.png)
-- **Regression Plot**:
-  ![Regression Plot](screenshots/regression_plot.png)
 
 ## License
 
